@@ -11,4 +11,4 @@ console.log(url);
 console.log(paramObj);
 
 var port = paramObj["port"];
-location.replace(`https://localhost:44379${url}`);
+location.replace(`https://localhost:44379/SCA/Complete${url}`);
