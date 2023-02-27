@@ -11,4 +11,4 @@ console.log(url);
 console.log(paramObj);
 
 var port = paramObj["port"];
-//location.replace(`https://localhost:${port}${url}`);
+location.replace(`https://localhost:${port}${url}`);
